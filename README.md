@@ -23,9 +23,9 @@
   <img width="12" />
   <img src="https://icons8.com.br/icons/set/c-programming" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://play.google.com/store/apps/details?id=com.krazeapps.vhdlprogrammingcompiler" height="40" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/" height="40" alt="vscode logo"  />
-  
+  <img width="12" />
+
 </div>
 
 <h2 align="left">Linkedin:</h2>
